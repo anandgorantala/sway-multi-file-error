@@ -1,0 +1,13 @@
+{
+  "name": "multi-file-sway",
+  "version": "1.0.0",
+  "description": "Multi file sway error",
+  "main": "validate.js",
+  "scripts": {
+    "start": "node validate"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "sway": "^1.0.0"
+  }
+}
